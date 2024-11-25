@@ -7,6 +7,6 @@
    pip install segmentation-models-pytorch<br>
    pip install albumentations
 - Commands: <br>
-    git clone https://github.com/DoDoanHoangDu/UNet_BKAI_NeoPolyp_Segmentation
-    cd UNet_BKAI_NeoPolyp_Segmentation
+    git clone https://github.com/DoDoanHoangDu/UNet_BKAI_NeoPolyp_Segmentation <br>
+    cd UNet_BKAI_NeoPolyp_Segmentation <br>
     python infer.py --image_path image.jpeg
